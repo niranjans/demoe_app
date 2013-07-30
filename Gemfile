@@ -5,7 +5,7 @@ ruby '2.0.0'
 gem 'rails', '4.0.0'
 
 # Use sqlite3 as the database for Active Record
-group :developement do
+group :development do
 	gem 'sqlite3'
 end
 
